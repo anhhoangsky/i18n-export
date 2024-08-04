@@ -29,5 +29,13 @@
     "export",
     "json",
     "excel"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhhoangsky/i18n-export"
+  },
+  "bugs": {
+    "url": "https://github.com/anhhoangsky/i18n-exportissues"
+  },
+  "homepage": "https://github.com/anhhoangsky/i18n-export#readme"
 }
